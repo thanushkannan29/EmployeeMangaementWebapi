@@ -26,7 +26,7 @@ namespace EmployeeManagementWebApi.Controllers
 
 
 
-        [AllowAnonymous]
+       
         [HttpPost("createadmin")]
         public IActionResult CreateAdmin(CreateAdminRequestDto request)
         {
