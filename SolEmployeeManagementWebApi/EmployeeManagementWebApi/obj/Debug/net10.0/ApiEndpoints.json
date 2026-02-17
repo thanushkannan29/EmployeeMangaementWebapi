@@ -1,0 +1,114 @@
+[
+  {
+    "ContainingType": "EmployeeManagementWebApi.Controllers.AdminController",
+    "Method": "CreateAdmin",
+    "RelativePath": "api/admin/createadmin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EmployeeManagementWebApi.Models.DTOs.CreateAdminRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagementWebApi.Controllers.AdminController",
+    "Method": "CreateDepartment",
+    "RelativePath": "api/admin/createdepartment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EmployeeManagementWebApi.Models.DTOs.CreateDepartmentRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagementWebApi.Controllers.AdminController",
+    "Method": "CreateEmployee",
+    "RelativePath": "api/admin/createemployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EmployeeManagementWebApi.Models.DTOs.CreateEmployeeRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagementWebApi.Controllers.AdminController",
+    "Method": "GetAllDepartments",
+    "RelativePath": "api/admin/getalldepartment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EmployeeManagementWebApi.Models.DTOs.GetDepartmentResquestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagementWebApi.Controllers.AdminController",
+    "Method": "GetAllEmployees",
+    "RelativePath": "api/admin/getallemployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EmployeeManagementWebApi.Models.DTOs.GetEmployeeRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagementWebApi.Controllers.EmployeeController",
+    "Method": "CreateEmployee",
+    "RelativePath": "api/employee/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EmployeeManagementWebApi.Models.DTOs.CreateEmployeeRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagementWebApi.Controllers.EmployeeController",
+    "Method": "GetEmployees",
+    "RelativePath": "api/employee/getallemployee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "EmployeeManagementWebApi.Models.DTOs.GetEmployeeRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

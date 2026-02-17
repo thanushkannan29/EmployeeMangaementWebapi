@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\contexts\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\contexts\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\repositories\\respository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\repositories\\respository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\migrations\\employeecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\migrations\\employeecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\models\\dtos\\createemployeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\models\\dtos\\createemployeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\migrations\\20260217132744_dbemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\migrations\\20260217132744_dbemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\models\\dtos\\createemployeerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\models\\dtos\\createemployeerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\models\\dtos\\createadminresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\models\\dtos\\createadminresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\models\\dtos\\createdepartmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\models\\dtos\\createdepartmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\models\\dtos\\createadminrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\models\\dtos\\createadminrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\exceptions\\duplicateentityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\exceptions\\duplicateentityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\interfaces\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\models\\dtos\\getdepartmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\models\\dtos\\getdepartmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\models\\dtos\\getdepartmentresquestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\models\\dtos\\getdepartmentresquestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\models\\dtos\\createdepartmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\models\\dtos\\createdepartmentrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\interfaces\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\interfaces\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\models\\dtos\\getemployeerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\models\\dtos\\getemployeerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\models\\dtos\\getemployeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\models\\dtos\\getemployeeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|c:\\users\\thanush.k\\downloads\\employeemangaementwebapi\\solemployeemanagementwebapi\\employeemanagementwebapi\\exceptions\\unabletocreateentityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE00E6F0-2750-0A6D-68B7-9E28505AB1CE}|EmployeeManagementWebApi\\EmployeeManagementWebApi.csproj|solutionrelative:employeemanagementwebapi\\exceptions\\unabletocreateentityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T10:50:25.365Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Services\\AdminService.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Services\\AdminService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:47:09.322Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Respository.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Repositories\\Respository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Repositories\\Respository.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Repositories\\Respository.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Repositories\\Respository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:25:39.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:32:26.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Contexts\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Contexts\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Contexts\\EmployeeContext.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Contexts\\EmployeeContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T08:44:12.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:38:27.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T14:39:50.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Services\\PasswordService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Services\\PasswordService.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Services\\PasswordService.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Services\\PasswordService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:54:57.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:03:47.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T09:29:57.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:22:54.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\User.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:25:07.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Migrations\\EmployeeContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Migrations\\EmployeeContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Migrations\\EmployeeContextModelSnapshot.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Migrations\\EmployeeContextModelSnapshot.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T15:04:03.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateEmployeeResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\CreateEmployeeResponseDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Models\\DTOs\\CreateEmployeeResponseDto.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\CreateEmployeeResponseDto.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Models\\DTOs\\CreateEmployeeResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:46:01.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260217132744_Dbemp.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Migrations\\20260217132744_Dbemp.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Migrations\\20260217132744_Dbemp.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Migrations\\20260217132744_Dbemp.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Migrations\\20260217132744_Dbemp.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:27:44.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateEmployeeRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\CreateEmployeeRequestDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Models\\DTOs\\CreateEmployeeRequestDto.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\CreateEmployeeRequestDto.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Models\\DTOs\\CreateEmployeeRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:38:49.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateAdminResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\CreateAdminResponseDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Models\\DTOs\\CreateAdminResponseDto.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\CreateAdminResponseDto.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Models\\DTOs\\CreateAdminResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T08:32:31.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateDepartmentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\CreateDepartmentResponseDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Models\\DTOs\\CreateDepartmentResponseDto.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\CreateDepartmentResponseDto.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Models\\DTOs\\CreateDepartmentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:00:46.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateAdminRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\CreateAdminRequestDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Models\\DTOs\\CreateAdminRequestDto.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\CreateAdminRequestDto.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Models\\DTOs\\CreateAdminRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T08:24:13.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:04:44.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:11:31.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DuplicateEntityException.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Exceptions\\DuplicateEntityException.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Exceptions\\DuplicateEntityException.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Exceptions\\DuplicateEntityException.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Exceptions\\DuplicateEntityException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T13:53:32.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:34:03.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Interfaces\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Interfaces\\IDepartmentService.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Interfaces\\IDepartmentService.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Interfaces\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:15:58.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetDepartmentResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\GetDepartmentResponseDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Models\\DTOs\\GetDepartmentResponseDto.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\GetDepartmentResponseDto.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Models\\DTOs\\GetDepartmentResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:04:01.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetDepartmentResquestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\GetDepartmentResquestDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Models\\DTOs\\GetDepartmentResquestDto.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\GetDepartmentResquestDto.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Models\\DTOs\\GetDepartmentResquestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:02:42.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateDepartmentRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\CreateDepartmentRequestDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Models\\DTOs\\CreateDepartmentRequestDto.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\CreateDepartmentRequestDto.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Models\\DTOs\\CreateDepartmentRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:54:53.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagementWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T09:34:27.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:21:46.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IPasswordService.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Interfaces\\IPasswordService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Interfaces\\IPasswordService.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Interfaces\\IPasswordService.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Interfaces\\IPasswordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T07:19:27.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetEmployeeRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\GetEmployeeRequestDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Models\\DTOs\\GetEmployeeRequestDto.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\GetEmployeeRequestDto.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Models\\DTOs\\GetEmployeeRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:50:10.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetEmployeeResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\GetEmployeeResponseDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Models\\DTOs\\GetEmployeeResponseDto.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Models\\DTOs\\GetEmployeeResponseDto.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Models\\DTOs\\GetEmployeeResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T06:51:57.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UnableToCreateEntityException.cs",
+              "DocumentMoniker": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Exceptions\\UnableToCreateEntityException.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementWebApi\\Exceptions\\UnableToCreateEntityException.cs",
+              "ToolTip": "C:\\Users\\Thanush.K\\Downloads\\EmployeeMangaementWebapi\\SolEmployeeManagementWebApi\\EmployeeManagementWebApi\\Exceptions\\UnableToCreateEntityException.cs",
+              "RelativeToolTip": "EmployeeManagementWebApi\\Exceptions\\UnableToCreateEntityException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T12:34:56.795Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
